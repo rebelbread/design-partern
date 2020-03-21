@@ -15,6 +15,7 @@
         <module name="factorymethod" />
         <module name="interpreter" />
         <module name="memento" />
+        <module name="observer" />
         <module name="prototype" />
         <module name="Singleton" />
       </profile>
