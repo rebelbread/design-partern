@@ -17,6 +17,8 @@
         <module>bridge</module>
         <module>chain-of-responsibility</module>
         <module>command</module>
+        <module>interpreter</module>
+        <module>memento</module>
     </modules>
 
 
