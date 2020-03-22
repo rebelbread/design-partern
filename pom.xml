@@ -20,6 +20,7 @@
         <module>interpreter</module>
         <module>memento</module>
         <module>observer</module>
+        <module>state</module>
     </modules>
 
 
