@@ -21,6 +21,8 @@
         <module>memento</module>
         <module>observer</module>
         <module>state</module>
+        <module>strategy</module>
+        <module>templateMethod</module>
     </modules>
 
 
